@@ -98,7 +98,7 @@ export default function App() {
             <Typography variant="h6" className={classes.title}>
               SétáltAPP
             </Typography>
-            <IconButton edge="start" className={classes.menuButton} color="inherit" aria-label="menu" href="http://localhost:3000/" >
+            <IconButton edge="start" className={classes.menuButton} color="inherit" aria-label="menu" href="https://gyapi2499.github.io/SetaltApp/" >
               <ReplayIcon/>
             </IconButton>
             <IconButton edge="start" className={classes.menuButton} color="inherit" aria-label="menu" onClick={() => {
@@ -193,7 +193,7 @@ export default function App() {
                 lng: longitude
               }}
               icon={{
-                url:'/dog.svg',
+                url:'SetaltApp/dog.svg',
                 scaledSize: new window.google.maps.Size(30,30)
               }}
           />
