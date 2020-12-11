@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SetaltApp/static/css/main.130e570e.chunk.css",
+    "main.js": "/SetaltApp/static/js/main.7ea1a52e.chunk.js",
+    "main.js.map": "/SetaltApp/static/js/main.7ea1a52e.chunk.js.map",
+    "runtime-main.js": "/SetaltApp/static/js/runtime-main.e4d18ea3.js",
+    "runtime-main.js.map": "/SetaltApp/static/js/runtime-main.e4d18ea3.js.map",
+    "static/css/2.8d682a32.chunk.css": "/SetaltApp/static/css/2.8d682a32.chunk.css",
+    "static/js/2.187fcc66.chunk.js": "/SetaltApp/static/js/2.187fcc66.chunk.js",
+    "static/js/2.187fcc66.chunk.js.map": "/SetaltApp/static/js/2.187fcc66.chunk.js.map",
+    "static/js/3.dd199366.chunk.js": "/SetaltApp/static/js/3.dd199366.chunk.js",
+    "static/js/3.dd199366.chunk.js.map": "/SetaltApp/static/js/3.dd199366.chunk.js.map",
+    "index.html": "/SetaltApp/index.html",
+    "static/css/2.8d682a32.chunk.css.map": "/SetaltApp/static/css/2.8d682a32.chunk.css.map",
+    "static/css/main.130e570e.chunk.css.map": "/SetaltApp/static/css/main.130e570e.chunk.css.map",
+    "static/js/2.187fcc66.chunk.js.LICENSE.txt": "/SetaltApp/static/js/2.187fcc66.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4d18ea3.js",
+    "static/css/2.8d682a32.chunk.css",
+    "static/js/2.187fcc66.chunk.js",
+    "static/css/main.130e570e.chunk.css",
+    "static/js/main.7ea1a52e.chunk.js"
+  ]
+}
