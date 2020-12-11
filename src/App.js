@@ -122,17 +122,17 @@ export default function App() {
           Üdvözöllek a SétáltAPP oldalán!
         </Typography>
         <Typography variant="body1" gutterBottom>
-          A célunk az alkalmazással, hogy ebben a vírussal teli időszakban, le ne csukjanak, ha este levinnéd sétálni a kutyusod.
+          A célunk az alkalmazással, hogy ebben a vírussal teli időszakban nehogy probléma legyen abból, ha este levinnéd sétálni a kutyusod.
         </Typography>
         <Typography variant="body1" className={classes.udvozloAlatt}>
-          Ha egy bizonyos címre szeretnéd megnézni az 500m-es körzetet, akkor azt lejjebb megteheted. Ha a tartózkodási helyed alapján szeretnéd megnézni, akkor pedig kattints a fejléc jobb oldali gombjára.
+          Ha egy bizonyos címre szeretnéd megnézni az 500m-es körzetet, akkor azt lejjebb megteheted. Ha a tartózkodási helyed alapján szeretnéd megnézni, akkor pedig kattints a fejléc jobb szélső gombjára.
         </Typography>
         <Grid container spacing={1}>
           <Grid item xs={6} className={classes.kozepre}>
         Kérlek add meg a címed:
           </Grid>
           <Grid item xs={6} className={classes.kozepre}>
-            Kattints a térkép gombra a megjelenítéshez:
+            Kattints a gombra a térkép megjelenítéshez:
           </Grid>
           <Grid item xs={6} style={{alignSelf:"center"}}>
             <Combobox onSelect={handleSelect}>
