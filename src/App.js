@@ -193,7 +193,7 @@ export default function App() {
                 lng: longitude
               }}
               icon={{
-                url:'SetaltApp/dog.svg',
+                url:'/SetaltApp/dog.svg',
                 scaledSize: new window.google.maps.Size(30,30)
               }}
           />
